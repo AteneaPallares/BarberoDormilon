@@ -1,0 +1,17 @@
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.exe
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.deps.json
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.runtimeconfig.json
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.runtimeconfig.dev.json
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.dll
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\bin\Debug\netcoreapp3.1\BarberoDormilon.pdb
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.csproj.AssemblyReference.cache
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.Form1.resources
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.Properties.Resources.resources
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.csproj.GenerateResource.cache
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.AssemblyInfoInputs.cache
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.AssemblyInfo.cs
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.csproj.CoreCompileInputs.cache
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.dll
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.pdb
+C:\Users\anaat\source\repos\BarberoDormilon\BarberoDormilon\obj\Debug\netcoreapp3.1\BarberoDormilon.genruntimeconfig.cache
